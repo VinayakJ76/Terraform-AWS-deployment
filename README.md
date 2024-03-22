@@ -1,7 +1,7 @@
 Using this code you can set up AWS infrastructure using Terraform.
 
-Components to be created:
-VPC, Public Subnet, EC2 Instance, Application Load Balancer, Internet Gateway, S3 bucket using Terraform.
+Components involved:
+VPC, Public Subnet, EC2 Instance, Application Load Balancer, Internet Gateway, S3 bucket.
 
 
 Diagram:
